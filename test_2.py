@@ -1,0 +1,4 @@
+
+print "Go away"
+
+
